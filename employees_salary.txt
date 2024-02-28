@@ -1,0 +1,4 @@
+vaitheesh_salary: 12 LPA
+arun_salary: 12 LPA
+suriya_salary: 12 LPA
+allu_arjun_salary: 45 LPA
